@@ -14,7 +14,7 @@ theme:
   name: material
   custom_dir: docs/overrides
   logo: assets/n-tier-logo.svg
-  favicon: assets/n-tier-logo.svg
+  favicon: assets/n-tier-logo-32x32.png
   language: en
   palette:
     # Palette toggle for light mode
@@ -163,7 +163,7 @@ extra_javascript:
 
 # Extra Configuration
 extra:
-  favicon: assets/n-tier-logo.png
+  favicon: assets/n-tier-logo-32x32.png
   generator: false  # disables the "Made with Material for MkDocs"
   version:
     provider: mike
